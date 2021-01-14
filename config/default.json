@@ -1,0 +1,5 @@
+{
+    "mongodbURL": "mongodb://localhost/HealthClinic",
+    "mongodbCloudUrl": "mongodb+srv://asim:pakistan@cluster0-9c49d.mongodb.net/HealthClinic?retryWrites=true",
+    "jwtSecret": "AnAppleADayKeepsTheDoctorAway"
+}
